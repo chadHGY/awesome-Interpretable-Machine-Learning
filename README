@@ -1,0 +1,12 @@
+Model Agnostic Explanations
+    + "Why Should I Trust You?": Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
+      + https://arxiv.org/pdf/1602.04938
+      + Code: https://github.com/marcotcr/lime
+      + https://github.com/marcotcr/lime-experiments
+      + https://www.youtube.com/watch?v=bCgEP2zuYxI
+      + Introduces the LIME method (Local Interpretable Model-agnostic Explanations)
+      
+    + A Unified Approach to Interpreting Model Predictions by Scott Lundberg, Su-In Lee
+      + https://arxiv.org/pdf/1705.07874
+      + Code: https://github.com/slundberg/shap
+      + Introduces the SHAP method (SHapley Additive exPlanations), generalizing LIME
